@@ -1,0 +1,19 @@
+body
+{
+background-color:pink;
+text-align:center;
+}
+.header
+{
+margin-top:200px;
+}
+.header button
+{
+border-radius:30px;
+background-color:aqua;
+font-size:20px;
+}
+.header a
+{
+text-decoration:none;
+}
